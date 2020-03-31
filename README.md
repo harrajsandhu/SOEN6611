@@ -25,12 +25,11 @@ Yasaman Sarlati - 40054706
 
 ## Selected Open-Source Systems
 
-1. **Apache Commons Lang** - [*project details*](https://commons.apache.org/proper/commons-lang/) , [*source-code*](https://github.com/apache/commons-lang)
+1. **Apache Commons CodeC** - [*project details*](http://commons.apache.org/proper/commons-codec/) , [*source-code*](https://github.com/apache/commons-codec)
 2. **JFreeChart** - [*project details*](http://www.jfree.org/jfreechart/) , [*source-code*](https://github.com/jfree/jfreechart)
 3. **Apache Commons Configuration** - [*project details*](https://commons.apache.org/proper/commons-configuration/) , [*source-code*](https://github.com/apache/commons-configuration) 
 4. **Apache Commons Digester** - [*project details*](https://commons.apache.org/proper/commons-digester/) , [*source-code*](https://github.com/apache/commons-digester/tree/DIGESTER3_3_2) 
 5. **Apache Commons JEXL** - [*project details*](https://commons.apache.org/proper/commons-jexl/) , [*source-code*](https://github.com/apache/commons-jexl) 
-6. **Apache Commons IO** - [*project details*](https://commons.apache.org/proper/commons-io/) , [*source-code*](https://github.com/apache/commons-io)
 
 ## Directory Structure                                 
 
