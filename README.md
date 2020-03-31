@@ -72,13 +72,13 @@ Added Dependency Plugin in pom.xml as below
 ### Mutation Score
 
 Added Dependency Plugin in pom.xml as below
-'''
+
  <plugin>
     <groupId>org.pitest</groupId>
     <artifactId>pitest-maven</artifactId>
     <version>LATEST</version>
  </plugin>
- '''
+
 ### Cyclomatic Complexity
 
 ### Code Churn
